@@ -1,0 +1,18 @@
+{
+  "name": "brunch-sasy-node-webkit",
+  "version": "0.0.1",
+  "main": "_public/app.js",
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-cookies": "~1.2.13",
+    "angular-mocks": "~1.2.13",
+    "angular-resource": "~1.2.13",
+    "angular-route": "~1.2.13",
+    "angular-sanitize": "~1.2.13",
+    "angular-ui-sortable": "~0.12.1",
+    "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1",
+    "console-polyfill": "~0.1.1",
+    "jQuery": "~2.1.0"
+  },
+  "overrides": {}
+}
